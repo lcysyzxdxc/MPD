@@ -21,8 +21,10 @@
   <sup>1</sup>Shanghai Jiaotong University,  <sup>2</sup>Shanghai AI Lab,  <sup>3</sup>Nanyang Technological University
  </div> 
 
+<div>
 **What images do machines prefer?** This remains an open question. Over the past two decades, IQA has witnessed significant development for humans. Conversely, machine preference development is much slower, regardless of an end-to-end IQA algorithm, there is even no database that annotates images with an overall preference score of machines. This hinders the comprehensive evaluation of image processing metrics designed for machine vision.
 
 Therefore, we establish the first large-scale, fine-grained, multi-dimensional quality database for machines, namely MPD. As the visual data consumption volume of machines has already surpassed humans, we hope that MPD can inspire effective IQA metrics to serve the upcoming machine-centric era.
 
-the code and data will be released soon.
+The code and data will be released soon.
+ </div> 
