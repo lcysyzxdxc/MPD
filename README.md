@@ -29,8 +29,8 @@
 
 Therefore, we establish the first large-scale, fine-grained, multi-dimensional quality database for machines, namely MPD. As the visual data consumption volume of machines has already surpassed humans, we hope that MPD can inspire effective IQA metrics to serve the upcoming machine-centric era.
 
-**Dataset is Released**: [Download](https://hf-mirror.com/datasets/lcysyzxdxc/MachinePreference/blob/main/MPD_release.zip). Due to the requirements of international standards, we first open-sourced 3,000 samples and will update them as appropriate.
+**Dataset Released**: [Download](https://hf-mirror.com/datasets/lcysyzxdxc/MachinePreference/blob/main/MPD_release.zip). Due to the requirements of international standards, we first open-sourced 3,000 samples and will update them as appropriate.
 
-This homepage will be further maintained。
+(This homepage will be further maintained)
 
  </div> 
