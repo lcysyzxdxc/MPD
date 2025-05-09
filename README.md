@@ -20,7 +20,7 @@
       <a href="https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153" target="_blank">Guangtao Zhai</a><sup>1</sup>
  </div>
  <div>
-  <sup>1</sup>Shanghai Jiaotong University,  <sup>2</sup>Shanghai AI Lab,  <sup>3</sup>Nanyang Technological University
+  <sup>1</sup>Shanghai Jiao Tong University,  <sup>2</sup>Shanghai AI Lab,  <sup>3</sup>Nanyang Technological University
  </div> 
 
 <div>
